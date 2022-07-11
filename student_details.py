@@ -21,14 +21,14 @@ Year(1-4):
 Now your task is to put it in a dictionary like the below example
 
 {
-'name': {'first-name':'Rama', 'last-name':'Rao'},
-'roll-number':'123456',
-'branch':'CSE',
-'specialization':'DS',
-'email-id':'ramarao@gitam.in',
-'moodle-id':'Rama Rao 123456',
-'github-id':'ramarao',
-'replit-id':'ramarao',
+'name': {'first-name':'Charan', 'last-name':'Reddy'},
+'roll-number':'123456567',
+'branch':'ECE',
+'specialization':'MS',
+'email-id':'cnalla@gitam.in',
+'moodle-id':'Charan reddy 123456567',
+'github-id':'charanreddy',
+'replit-id':'charanreddy',
 'semester':'2',
 'year':'1'
 }
